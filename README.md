@@ -6,20 +6,8 @@
 - I started my cloud journey, and got the AWS Certified Solutions Architect – Associate & AWS Certified Cloud Practitioner, and looking for a new challenges to expand my cloud knowledge.
 
 
-- 🔭 I’m currently working on processing payment banking flows and custodian flows.
-- 🌱 I’m currently learning cloud and devops:
-
 | Project | Discription                                          |
 |-----:   |------------------------------------------------------|
 |     1   | A Cantrill projects                                  |
 
 - 📫 How to reach me: med.amd@gmail.com
-
-<!--
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 💬 Ask me about ...
-- 👯 I’m looking to collaborate on java & spring community projects.
-- 🤔 I’m looking for help with ...
-
--->
