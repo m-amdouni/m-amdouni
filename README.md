@@ -5,9 +5,4 @@
 - I'm problem resolver and facilitator team member in agile enviorment. Goal-oriented and a strong desire to succeed.
 - I started my cloud journey, and got the AWS Certified Solutions Architect – Associate & AWS Certified Cloud Practitioner, and looking for a new challenges to expand my cloud knowledge.
 
-
-| Project | Discription                                          |
-|-----:   |------------------------------------------------------|
-|     1   |                                                      |
-
 - 📫 How to reach me: med.amd@gmail.com
